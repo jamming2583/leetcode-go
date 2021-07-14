@@ -1,0 +1,1 @@
+module "github.com/jamming2583/leetcode-go"
