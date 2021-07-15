@@ -8,6 +8,7 @@ func main() {
 	println(reverse(0))
 }
 
+//考的是取余，整除啥的
 func reverse(x int) int {
 	result := 0
 	for x != 0 {
