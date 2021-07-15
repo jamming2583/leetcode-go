@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	println(reverse1(0))
+	println(reverse1(-214748364))
 }
 
 //考的是取余，整除啥的
